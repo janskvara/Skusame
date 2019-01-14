@@ -10,6 +10,7 @@ namespace Skusame
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Skusa,e");
         }
     }
 }
